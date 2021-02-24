@@ -1,0 +1,17 @@
+Package: XRFdatabase
+Type: Package
+Title: Graphical User Interface for XRF data entry.
+Version: 0.1.0
+Author: Gayantha R. L. Kodikara
+Maintainer: Gayantha R. L. Kodiakra <gayantha@uwm.edu>
+Description: This package provides a graphical user interface to enter XRF data into the database. 
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Imports: shiny (>= 1.1.0),
+        shinyjs (>= 1.0.0),
+        DT (>= 0.4)
+Depends:
+Suggests:
+  knitr
+RoxygenNote: 6.0.1
